@@ -1,0 +1,15 @@
+{
+  "name": "atom-darkou-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The quintessence of the themes",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Th3Mouk/atom-darkou-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
